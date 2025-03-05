@@ -1,6 +1,6 @@
 
 import { motion, useAnimation } from "framer-motion";
-import { Camera, FileImage, Loader2, Upload, X } from "lucide-react";
+import { Camera, Check, FileImage, Loader2, Upload, X } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { BlurCard } from "./ui/blur-card";
 

@@ -11,9 +11,6 @@ import { UploadSection } from "@/components/upload-section";
 // Import and set up framer-motion
 import { AnimatePresence, motion } from "framer-motion";
 
-// Add framer-motion as a dependency
-<lov-add-dependency>framer-motion@latest</lov-add-dependency>
-
 const Index = () => {
   useEffect(() => {
     // Scroll reveal animation
